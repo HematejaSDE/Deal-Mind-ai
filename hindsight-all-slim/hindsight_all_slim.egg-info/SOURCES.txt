@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+hindsight_all_slim.egg-info/PKG-INFO
+hindsight_all_slim.egg-info/SOURCES.txt
+hindsight_all_slim.egg-info/dependency_links.txt
+hindsight_all_slim.egg-info/requires.txt
+hindsight_all_slim.egg-info/top_level.txt
